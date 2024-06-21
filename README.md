@@ -1,6 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+This is a dummy admin board with dummy data, focus was made on the chart, layout, responsiveness and the toogle mode, it was made with Shadcn a tutorial from Traversy Media
 
 First, run the development server:
 
